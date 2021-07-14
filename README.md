@@ -62,7 +62,7 @@ Requirements: yarn
 
 ```bash
 # go to the frontend directory, backend's sister directory
-cd frontweb
+cd frontend
 
 # install the dependencies
 yarn
