@@ -22,7 +22,6 @@ API com quatros endpoints:</p>
 
 ## Desktop layout
 <div>
-  <img src="https://user-images.githubusercontent.com/19571060/117524874-fb894f80-af95-11eb-833a-e8ca0100519d.png">
   <img src="https://user-images.githubusercontent.com/19571060/117524879-05ab4e00-af96-11eb-9af5-8897a015cce8.png">
 </div>
 
