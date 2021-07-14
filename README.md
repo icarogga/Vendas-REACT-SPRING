@@ -16,7 +16,6 @@ API com quatros endpoints:</p>
 ## Mobile layout
 
 <div float="left">
-  <img src="https://user-images.githubusercontent.com/19571060/117524839-ca108400-af95-11eb-9e3d-9715138a124f.png" width="300">
   <img src="https://user-images.githubusercontent.com/19571060/117524845-d7c60980-af95-11eb-95ef-7085855797cb.png" width="300">
 </div>
 
